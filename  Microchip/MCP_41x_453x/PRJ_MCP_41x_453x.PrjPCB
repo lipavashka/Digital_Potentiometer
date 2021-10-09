@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PRJ_MCP_41x_453x\Design Rule Check - PCB_MCP_41x_453x.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
